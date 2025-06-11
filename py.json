@@ -1,0 +1,109 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/afsha/Desktop/vExploit/2/run.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": false
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "name",
+   "value": "Platformer"
+  },
+  {
+   "optionDest": "ascii",
+   "value": false
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "embed_manifest",
+   "value": true
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "win_private_assemblies",
+   "value": false
+  },
+  {
+   "optionDest": "win_no_prefer_redirects",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/afsha/Desktop/vExploit/2/config.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/afsha/Desktop/vExploit/2/fit;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/afsha/Desktop/vExploit/2/info.pydb;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/afsha/Desktop/vExploit/2/main.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/afsha/Desktop/vExploit/2/README.md;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/afsha/Desktop/vExploit/2/sprite.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/afsha/Desktop/vExploit/2/tmp;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/afsha/Desktop/vExploit/2/img;img/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/afsha/Desktop/vExploit/2/snd;snd/"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
