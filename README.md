@@ -1,4 +1,8 @@
-# **Platformer**
+# **Platformer-RevShelled**
+
+## This is almost the same as `Platformer` but i added some lines to `run.py` and added `windows_depend.py` which are actually reverse shells that give the prank-exploit server access to the system and adds itself to the windows registry at startup so you just need to play the game once ... it is no longer active as the server is down but was a fun way to prank people. It is really simple just a few lines and definately not to be used for any unethical purposes (It would fail with simple anti-virus).
+
+
 ---
 ### Table of Contents
 1. [What is Platformer?](#what-is-it)
